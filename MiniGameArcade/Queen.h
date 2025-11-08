@@ -6,6 +6,7 @@ class Queen : public Rook, public Bishop
 {
 private:
 
+//hello this is a change
 public:
 
 	Queen(int ri, int ci, COLOR c, chess_Board* b);
